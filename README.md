@@ -6,7 +6,8 @@ Aplicação desenvolvida 27/03/2023
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ![1](https://user-images.githubusercontent.com/48281531/228048979-ffc8d040-fc8d-4ca5-b53b-39bd4817e01c.png)
@@ -26,3 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Criação de mini-app, que gera uma limonada. O passo-a-passo que acontece no mini-app, você pega o limão da arvore, expreme o limão, e por fim gera o suco e toma. Desenvolvido durante no bootcamp de Jetpack Compose da Google Developer.
+
+## 🔖 Layout
+
+Layout desenvolvido pela Google Developer.
